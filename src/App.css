@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  margin: 50px;
+}
+.App .box{
+    display: inline-block;
+    padding: 30px;
+    border: 2px double #ccc;
+    width: 310px;
+    margin: 10px;
+    text-align: left;
+}
+.App ul{
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
